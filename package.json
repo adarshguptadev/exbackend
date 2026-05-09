@@ -1,0 +1,28 @@
+{
+  "name": "@adarshguptadev/exbackend",
+  "version": "1.0.3",
+  "description": "CLI tool to quickly generate a production-ready Express.js backend structure with MVC architecture",
+  "bin": {
+    "exbackend": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "templates",
+    "README.md"
+  ],
+  "keywords": [
+    "express",
+    "backend",
+    "cli",
+    "mern",
+    "nodejs",
+    "starter",
+    "generator"
+  ],
+  "author": "Adarsh Gupta",
+  "license": "MIT",
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=14"
+  }
+}
