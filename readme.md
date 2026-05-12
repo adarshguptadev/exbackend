@@ -69,7 +69,6 @@ myApp/
 
 ```bash
 cd myApp
-npm install
 npm run dev
 ```
 
@@ -106,7 +105,11 @@ This CLI automates the setup so you can focus on building features instead of bo
 
 **Adarsh Gupta**
 
-GitHub: https://github.com/adarshguptadev
+GitHub: [github.com/adarshguptadev/exbackend](https://github.com/adarshguptadev/exbackend)
+
+exbackend: [exbackend.adarshguptadev.in](https://exbackend.adarshguptadev.in)
+
+npm: [npmjs.com/package/@adarshguptadev/exbackend](https://www.npmjs.com/package/@adarshguptadev/exbackend)
 
 ---
 
